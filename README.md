@@ -1,4 +1,4 @@
-# RoomsAnalysis
+# Rooms_analysis
 
 This project demonstrates how to analyze hotel room data through basic statistical methods and visualizations. It provides insights into room performance and potential anomalies in the data.
 
